@@ -1,0 +1,16 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(246, 234, 219);
+}
+
+.recipes {
+    font-size: 20px;
+}
+
+.recipes li {
+    margin: 10px;
+}
+
+.description p {
+    margin: 0px;
+}
